@@ -19,10 +19,11 @@ __Version Control Tool__: Git/GitHub
 __RDBMS__: Oracle, MySQL Server
 __CI/CD Tools__: Jenkins
 __Cloud Service__: AWS (Amazon Cloud Service)
+__Languages__: Russian, English, Turkish, German
+![Alt-Maria]("C:\Users\maria\Downloads\aeeaa183-6261-415f-8115-f7f7423c6ee6.jpeg")
+__hobby__: hunting, fishing, modelling
 
 <p>Samples of code:
 ```<script> 
     alert ("Hello word and hello Maria");
 </script></p>```
-__Languages__: Russian, English, Turkish, German
-![Alt-Maria]("C:\Users\maria\Downloads\aeeaa183-6261-415f-8115-f7f7423c6ee6.jpeg")
