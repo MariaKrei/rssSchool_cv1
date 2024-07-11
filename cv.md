@@ -1,8 +1,8 @@
 # **Maria Krei**
 __contacts__:\
-    +mobile: +13146257886\
-    +discord:maria_kr_mo\
-    +email: marykreilich@gmail.com\
+    +mobile: +13146257886
+    +discord:maria_kr_mo
+    +email: marykreilich@gmail.com
  __About myself__\
 I am currently working as an automation test engineer proficient in Java. Recently, I made the exciting decision to expand my skills into software development. I am eagerly looking forward to learning a new programming language and actively participating in this course. My goal is to leverage my testing expertise to become a proficient developer and contribute effectively to innovative projects.</p>
 
