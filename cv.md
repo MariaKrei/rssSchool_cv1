@@ -4,7 +4,7 @@ __contacts__:\
     +discord:maria_kr_mo\
     +email: marykreilich@gmail.com\
  __About myself__\
-I am currently working as an automation test engineer proficient in Java. Recently, I made the exciting decision to expand my skills into software development. I am eagerly looking forward to learning a new programming language and actively participating in this course. My goal is to leverage my testing expertise to become a proficient developer and contribute effectively to innovative projects.</p>\
+I am currently working as an automation test engineer proficient in Java. Recently, I made the exciting decision to expand my skills into software development. I am eagerly looking forward to learning a new programming language and actively participating in this course. My goal is to leverage my testing expertise to become a proficient developer and contribute effectively to innovative projects.</p>
 
 __Languages__: Java, SQL, Gherkin\
 __Testing Tools__: Selenium WebDriver, Cucumber, JUnit, Database, Postman, API, JDBC, TestNG\
@@ -24,7 +24,7 @@ __Languages__: Russian, English, Turkish, German\
 __hobby__: piloting,hunting, fishing, modelling\
 __social life__: volunteering at Ronald McDonald house for russian-speaking kids with disability
 
-<p>Samples of code:\
+<p>Samples of code:
 ```<script> 
     alert ("Hello word and hello Maria");
 </script></p>```
