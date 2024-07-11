@@ -24,7 +24,7 @@ __Languages__: Russian, English, Turkish, German\
 __hobby__: piloting,hunting, fishing, modelling\
 __social life__: volunteering at Ronald McDonald house for russian-speaking kids with disability
 
-<p>Samples of code:
+Samples of code:/
 ```<script> 
     alert ("Hello word and hello Maria");
-</script></p>```
+</script>'''
