@@ -1,4 +1,4 @@
-# **Maria Krei**\
+# **Maria Krei**
 __contacts__:\
     +mobile: +13146257886\
     +discord:maria_kr_mo\
@@ -22,7 +22,7 @@ __Cloud Service__: AWS (Amazon Cloud Service)\
 __Languages__: Russian, English, Turkish, German\
 ![Alt-Maria]("C:\Users\maria\Downloads\aeeaa183-6261-415f-8115-f7f7423c6ee6.jpeg")\
 __hobby__: piloting,hunting, fishing, modelling\
-__social life__: volunteering at Ronald McDonald house for russian-speaking kids with disability\
+__social life__: volunteering at Ronald McDonald house for russian-speaking kids with disability
 
 <p>Samples of code:\
 ```<script> 
