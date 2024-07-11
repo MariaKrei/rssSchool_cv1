@@ -29,4 +29,4 @@ Samples of code:/
 <script> 
     alert ("Hello word and hello Maria");
 </script>
-'''
+```
